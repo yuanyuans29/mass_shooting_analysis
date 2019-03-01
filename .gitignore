@@ -3,3 +3,4 @@ config.py
 *.xlsx
 *.doc
 *.docx
+.ipynb_checkpoints
